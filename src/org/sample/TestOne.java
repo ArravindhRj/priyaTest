@@ -2,9 +2,18 @@ package org.sample;
 
 public class TestOne {
 
-	public static void main(String[] args) {
+	private void empId() {
+		System.out.println();
+	}
+
+	
+	private void empName() {
 		// TODO Auto-generated method stub
 
+	}
+	public static void main(String[] args) {
+
+		System.out.println();
 	}
 
 }
